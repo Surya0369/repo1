@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6402-9750
+
+ Directory of C:\Users\Lenovo\Desktop\say yaaahh
+
+09/23/2018  03:00 AM    <DIR>          .
+09/23/2018  03:00 AM    <DIR>          ..
+09/23/2018  03:00 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  37,698,715,648 bytes free
